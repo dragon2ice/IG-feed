@@ -1,0 +1,25 @@
+body{
+    background: lightgray;
+    margin: 0;
+}
+header {
+    background: white;
+    padding: 8px;
+}
+header h1{
+    margin: 0;
+}
+div.feed {
+    background: white;
+}
+div.feed img{
+    width: 100%;
+}
+
+div.feed h2, div.feed p{
+    padding: 6px;
+}
+div.wrapper {
+    width: 600px;
+    margin:auto;
+}
